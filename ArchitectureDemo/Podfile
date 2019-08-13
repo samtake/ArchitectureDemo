@@ -1,0 +1,11 @@
+use_frameworks! 
+platform :ios, ‘9.0’
+target 'ArchitectureDemo' do
+ #pod 'MJExtension', '~> 3.0.7'
+ # pod 'SDWebImage-Category', '~> 1.4'
+
+pod 'ReactiveCocoa'
+pod 'Masonry'
+
+
+end
